@@ -38,12 +38,6 @@ I love building scalable cloud-native systems using Go, Kubernetes and AWS.
 
 ---
 
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=VarshneyPranjal&theme=react-dark)
-
----
-
 # 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/pranjal-varshney-9082b51bb
