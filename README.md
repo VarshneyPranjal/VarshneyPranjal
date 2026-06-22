@@ -1,11 +1,16 @@
 # 👋 Hi, I'm Pranjal Varshney
 
-💻 Golang Developer | ☁️ Cloud Engineer | ⚙️ DevOps Enthusiast  
+💻 Golang Developer | ⚙️ Cloud & DevOps Enthusiast
 
 I love building scalable cloud-native systems using Go, Kubernetes and AWS.
 
+
 ---
 
+## 👨‍💻 About Me
+Software Engineer with 3+ years of experience in Golang. Passionate about Cloud, DevOps, AWS, Docker, Kubernetes and building scalable backend applications. Currently exploring cloud-native technologies and automation through hands-on projects.
+
+---
 # 🚀 Tech Stack
 
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -19,6 +24,14 @@ I love building scalable cloud-native systems using Go, Kubernetes and AWS.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|--------|---------|---------|
+| **Golang Developer** | TCS | Jun 2023 – Present |
 
 ---
 
@@ -42,7 +55,3 @@ I love building scalable cloud-native systems using Go, Kubernetes and AWS.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/pranjal-varshney-9082b51bb
 - 📧 Email: pranjalvarshney898@gmail.com
-
----
-
-⭐ Always learning Cloud Native & DevOps
